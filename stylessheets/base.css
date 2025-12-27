@@ -1,0 +1,55 @@
+@font-face {
+    font-family: 'Ebbe';
+    src: url('../fonts/Ebbe-Bold.eot');
+    src: url('../fonts/Ebbe-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Ebbe-Bold.woff2') format('woff2'),
+        url('../fonts/Ebbe-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ebbe';
+    src: url('../fonts/Ebbe-Black.eot');
+    src: url('../fonts/Ebbe-Black.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Ebbe-Black.woff2') format('woff2'),
+        url('../fonts/Ebbe-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ebbe';
+    src: url('../fonts/Ebbe-Light.eot');
+    src: url('../fonts/Ebbe-Light.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Ebbe-Light.woff2') format('woff2'),
+        url('../fonts/Ebbe-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ebbe';
+    src: url('../fonts/Ebbe-Thin.eot');
+    src: url('../fonts/Ebbe-Thin.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Ebbe-Thin.woff2') format('woff2'),
+        url('../fonts/Ebbe-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ebbe';
+    src: url('../fonts/Ebbe.eot');
+    src: url('../fonts/Ebbe.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Ebbe.woff2') format('woff2'),
+        url('../fonts/Ebbe.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
